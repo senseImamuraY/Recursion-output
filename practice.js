@@ -129,3 +129,4 @@ const Money = (day) => {
 // profileDiv.append(employee1);
 // profileDiv.append(employee2);
 // profileDiv.append(employee3);
+console.log("pass")
